@@ -43,7 +43,7 @@ body{
     background-color: #2AB3B0;
     padding:40px;
     color: #fff;
-    min-height:259px ;
+    height:259px ;
     border-radius: 0 0 0 8px;
 }
 
@@ -73,7 +73,7 @@ body{
     background-color: #4ABFBC;
     color: #fff;
     padding:40px;
-    min-height:259px;
+    height:259px;
     border-radius: 0 0 8px 0px;
     
 }
