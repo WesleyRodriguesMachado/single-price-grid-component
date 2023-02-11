@@ -1,4 +1,7 @@
 @media(max-width:700px){
+    body{
+        margin-top: 100px;
+    }
     .container{
         display: flex;
         flex-direction: column;
@@ -38,6 +41,12 @@
         height:227px;
         width: 311px;
         border-radius: 0 0 8px 8px;
+        
+    }
+
+    .container .price-details .btn-price{
+       
+        padding: 15px 89px;
         
     }
 
