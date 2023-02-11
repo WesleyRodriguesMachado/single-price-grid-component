@@ -25,7 +25,7 @@
      }
 
      .container .price-details{
-        
+        padding: 24px;
         height:259px ;
         width: 311px;
         border-radius: 0 0 0 0px;
@@ -34,7 +34,7 @@
 
 
     .container .why-us{
-    
+        padding: 24px;
         height:259px;
         width: 311px;
         border-radius: 0 0 8px 8px;
